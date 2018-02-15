@@ -12,13 +12,10 @@
     "start": "node server.js"
   },
   "dependencies": {
+    "add": "^2.0.6",
     "express": "3.x",
     "express3-handlebars": "*",
-    "js": "^0.1.0",
-    "mongodb": "*",
-    "mongoose": "*",
-    "node": "^9.5.0",
-    "node.js": "0.0.0"
+    "nodemon": "^1.14.12"
   },
   "engines": {
     "node": "0.10.x"
